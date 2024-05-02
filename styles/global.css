@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+    color: #ffecd6
+}
+
+body {
+    background-color: #40265c;
+}
+
+a { 
+    text-decoration: none;
+}

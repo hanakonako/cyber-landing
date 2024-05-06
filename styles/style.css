@@ -6,8 +6,13 @@ body {
 }
 
 h1 {
-
   font-size: 6.5rem;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .wrapper {
@@ -29,4 +34,15 @@ h1 {
 
 body {
   background-image: url("../public.png");
+}
+
+ul {
+  list-style: none;
+  li {
+    a {
+      font-size: 1.2em;
+    }
+  }
+  display: flex;
+  gap: 10px;
 }
